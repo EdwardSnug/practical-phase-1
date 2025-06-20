@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@email.com",
+      "age": 28,
+      "city": "New York",
+      "department": "Marketing",
+      "phoneNumber": "+1-555-0123",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob.smith@email.com",
+      "age": 34,
+      "city": "Los Angeles",
+      "department": "Engineering",
+      "phoneNumber": "+1-555-0124",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "firstName": "Carol",
+      "lastName": "Davis",
+      "email": "carol.davis@email.com",
+      "age": 29,
+      "city": "Chicago",
+      "department": "Sales",
+      "phoneNumber": "+1-555-0125",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "david.wilson@email.com",
+      "age": 42,
+      "city": "Houston",
+      "department": "Finance",
+      "phoneNumber": "+1-555-0126",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "firstName": "Emma",
+      "lastName": "Brown",
+      "email": "emma.brown@email.com",
+      "age": 26,
+      "city": "Phoenix",
+      "department": "HR",
+      "phoneNumber": "+1-555-0127",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "email": "frank.miller@email.com",
+      "age": 38,
+      "city": "Philadelphia",
+      "department": "IT",
+      "phoneNumber": "+1-555-0128",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "firstName": "Grace",
+      "lastName": "Taylor",
+      "email": "grace.taylor@email.com",
+      "age": 31,
+      "city": "San Antonio",
+      "department": "Operations",
+      "phoneNumber": "+1-555-0129",
+      "isActive": false
+    },
+    {
+      "id": 8,
+      "firstName": "Henry",
+      "lastName": "Anderson",
+      "email": "henry.anderson@email.com",
+      "age": 45,
+      "city": "San Diego",
+      "department": "Legal",
+      "phoneNumber": "+1-555-0130",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "firstName": "Isabella",
+      "lastName": "Garcia",
+      "email": "isabella.garcia@email.com",
+      "age": 27,
+      "city": "Dallas",
+      "department": "Marketing",
+      "phoneNumber": "+1-555-0131",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "firstName": "Jack",
+      "lastName": "Rodriguez",
+      "email": "jack.rodriguez@email.com",
+      "age": 33,
+      "city": "San Jose",
+      "department": "Engineering",
+      "phoneNumber": "+1-555-0132",
+      "isActive": true
+    }
+  ]
+}
